@@ -1,5 +1,5 @@
 Use This extension at your own risk:
-<<Installation>>
+## <<Installation>>
   Open Webbrowser, then go to the extension settings and then click on the load unpacked. Select the folder that you extracted...
  
 ## Disclaimer
